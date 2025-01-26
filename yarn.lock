@@ -4270,16 +4270,10 @@ rehype@^12.0.1:
     rehype-stringify "^9.0.0"
     unified "^10.0.0"
 
-remark-autolink-headings@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/remark-autolink-headings/-/remark-autolink-headings-7.0.1.tgz#1d8528ea8783b828200d13c055ec2d5f2cae5060"
-  integrity sha512-a1BIwoJ0cSnX+sPp5u3AFULBFWHGYBt57Fo4a+7IlGiJOQxs8b7uYAE5Iu26Ocl7Y5cvinZy3FaGVruLCKg6vA==
-  dependencies:
-    "@types/hast" "^2.0.0"
-    "@types/mdast" "^3.0.0"
-    extend "^3.0.0"
-    unified "^10.0.0"
-    unist-util-visit "^4.0.0"
+remark-autolink-headings@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/remark-autolink-headings/-/remark-autolink-headings-8.0.0.tgz#0b13bd5fb40afb4b3ef8ac53c23db696978e356a"
+  integrity sha512-vzbpYmQsTLuwlmbnET5UK1sceR6qGRtb1vFBpc4uOZ+9j2vysSBryPDp6Lw2VfjFQTH73bHJJDTNB1LYOFrNpg==
 
 remark-capitalize@^1.1.0:
   version "1.1.0"
